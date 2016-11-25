@@ -1,0 +1,18 @@
+baseurl = "https://example.com"
+languageCode = "en"
+title = "Minimalist Blog"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/MarcelMue\">MarcelMue</a> 2016"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile","javascript"]
+
+[[params.social]]
+url = "https://github.com/MarcelMue"
+fa_icon = "fa-github"
+[[params.social]]
+url = "https://twitter.com/MueMarcel"
+fa_icon = "fa-twitter"
