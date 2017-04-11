@@ -2,13 +2,13 @@ baseurl = "https://marcelmue.github.io/MinimalistBlog/"
 languageCode = "en"
 title = "Minimalist Blog"
 theme = "hemingway"
-copyright = "&copy; <a href=\"https://github.com/MarcelMue\">MarcelMue</a> 2016"
+copyright = "&copy; <a href=\"https://github.com/MarcelMue\">MarcelMue</a> 2017"
 
 [params]
 
 [params.highlight]
 style = "github"
-languages = ["go", "dockerfile","javascript"]
+languages = ["go","ruby", "dockerfile","javascript"]
 
 [[params.social]]
 url = "https://github.com/MarcelMue"
